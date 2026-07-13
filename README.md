@@ -1,8 +1,8 @@
 <div align="center">
 
-# Khatrina Joice Gonzales
+# Hi! I am Khatrina Joice Gonzales ✨
 
-**Computer Science Student &nbsp;·&nbsp; Full-Stack Developer**
+**Computer Science Student &nbsp;·&nbsp; Aspiring Software Engineer and Data Analyst**
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;Building+user-centered+web+and+mobile+applications;Currently+exploring+Python+for+data+science" />
 
@@ -88,23 +88,7 @@ I'm a Computer Science student with hands-on experience building web and mobile 
 
 <br>
 
-## 04 — Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaatriinaa/khaatriinaa/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaatriinaa/khaatriinaa/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/khaatriinaa/khaatriinaa/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>Generated daily by GitHub Actions — goes live once this repo is pushed to GitHub and the <a href=".github/workflows/snake.yml">workflow</a> runs once</sub>
-
-</div>
-
-<br>
-
-## 05 — Contact
+## 04 — Contact
 
 I'm open to discussing new projects, collaborations, and opportunities.
 
