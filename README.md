@@ -82,18 +82,7 @@ I'm a Computer Science student with hands-on experience building web and mobile 
 
 <div align="center">
 
-<table>
-<tr>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=khaatriinaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=94A3B8&icon_color=4F46E5&text_color=CBD5E1&border_radius=8" /></td>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaatriinaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&border_radius=8" /></td>
-</tr>
-</table>
-
 <img width="100%" src="https://streak-stats.demolab.com/?user=khaatriinaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=4F46E5&fire=4F46E5&currStreakLabel=94A3B8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&border_radius=8" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=khaatriinaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
