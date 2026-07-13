@@ -8,9 +8,9 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://khatrinajoice-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-khatrinagonzales4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@khaatriinaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://khatrinajoice-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
 
 </div>
 
@@ -28,7 +28,7 @@ const developer = {
 
 <br>
 
-## 🧭 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366F1,100:8B5CF6&height=55&section=header&text=🧭%20About%20Me&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 I'm passionate about **creating digital solutions**.
 
@@ -51,7 +51,7 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-## 🛠️ Skills
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366F1,100:8B5CF6&height=55&section=header&text=🛠️%20Skills&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
 
@@ -82,7 +82,7 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-## 📈 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366F1,100:8B5CF6&height=55&section=header&text=📈%20GitHub%20Stats&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
 
@@ -95,7 +95,7 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-## 🐍 Contribution Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366F1,100:8B5CF6&height=55&section=header&text=🐍%20Contribution%20Snake&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
 
@@ -105,23 +105,24 @@ I care about building user-centered products, and I'm currently expanding into P
   <img alt="a custom-palette snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/khaatriinaa/khaatriinaa/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>Generated daily by GitHub Actions — <a href=".github/workflows/snake.yml">workflow</a></sub>
+<sub>Generated daily by GitHub Actions — goes live once this repo is pushed to GitHub and the <a href=".github/workflows/snake.yml">workflow</a> runs once</sub>
 
 </div>
 
 <br>
 
-## 📫 Let's Work Together
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366F1,100:8B5CF6&height=55&section=header&text=📫%20Let's%20Work%20Together&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
 
 Have a project in mind? I'm always open to discussing new projects and opportunities — let's create something amazing together.
 
-[![Email](https://img.shields.io/badge/Email_Me-khatrinagonzales4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
-[![GitHub](https://img.shields.io/badge/Follow_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaatriinaa)
+<br>
 
-📍 Catandala, Ibaan, Batangas, Philippines
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaatriinaa)
+[![Location](https://img.shields.io/badge/-Ibaan%2C%20Batangas-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
