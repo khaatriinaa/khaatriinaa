@@ -4,6 +4,8 @@
 
 **Computer Science Student &nbsp;·&nbsp; Full-Stack Developer**
 
+![Status](https://img.shields.io/badge/●-open%20to%20opportunities-10B981?style=flat-square&labelColor=1E293B)
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;Building+user-centered+web+and+mobile+applications;Currently+exploring+Python+for+data+science" />
 
 <br>
@@ -29,11 +31,11 @@ const developer = {
 
 <br>
 
-## About
+## 🧭&nbsp; About
 
 I'm a Computer Science student with hands-on experience building web and mobile applications — from front-ends in React and Next.js to back-ends powered by Node.js and Supabase.
 
-I care about building user-centered products, and I'm currently expanding into Python for data science while exploring how AI can make applications smarter and more personalized.
+> I care about building **user-centered products**, and I'm currently expanding into Python for data science while exploring how AI can make applications smarter and more personalized.
 
 <div align="center">
 
@@ -50,7 +52,7 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-## Skills
+## 🛠️&nbsp; Skills
 
 <div align="center">
 
@@ -84,7 +86,7 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-## GitHub Statistics
+## 📊&nbsp; GitHub Statistics
 
 <div align="center">
 
@@ -97,7 +99,7 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-## Contribution Graph
+## 🐍&nbsp; Contribution Graph
 
 <div align="center">
 
@@ -113,7 +115,7 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-## Contact
+## 📬&nbsp; Contact
 
 <div align="center">
 
