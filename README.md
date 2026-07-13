@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi! I am Khatrina Joice Gonzales ✨
+### Hi! I am Khatrina Joice Gonzales ✨
 
 **Computer Science Student &nbsp;·&nbsp; Aspiring Software Engineer and Data Analyst**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;Building+user-centered+web+and+mobile+applications;Currently+exploring+Python+for+data+science" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;Building+user-centered+web+and+mobile+applications;Currently+exploring+Python+for+data+science" />
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://khatrinajoice-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
@@ -15,9 +13,7 @@
 
 </div>
 
-<br>
-
-## 01 — About
+### 01 — About
 
 I'm a Computer Science student with hands-on experience building web and mobile applications.
 
@@ -41,9 +37,7 @@ I'm a Computer Science student with hands-on experience building web and mobile 
 
 </div>
 
-<br>
-
-## 02 — Skills
+### 02 — Skills
 
 <div align="center">
 
@@ -76,28 +70,22 @@ I'm a Computer Science student with hands-on experience building web and mobile 
 
 </div>
 
-<br>
-
-## 03 — GitHub Statistics
+### 03 — GitHub Statistics
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=khaatriinaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=4F46E5&fire=4F46E5&currStreakLabel=94A3B8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&border_radius=8" />
+<img width="480" src="https://streak-stats.demolab.com/?user=khaatriinaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=4F46E5&fire=4F46E5&currStreakLabel=94A3B8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&border_radius=8" />
 
 </div>
 
-<br>
-
-## 04 — Contact
+### 04 — Contact
 
 I'm open to discussing new projects, collaborations, and opportunities.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/khaatriinaa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaatriinaa)
-
-📍 Ibaan, Batangas, Philippines
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/khaatriinaa)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khaatriinaa)
 
 </div>
