@@ -6,10 +6,10 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://khatrinajoice-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-4F46E5?style=flat-square&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
-[![GitHub](https://img.shields.io/badge/-GitHub-4F46E5?style=flat-square&logo=github&logoColor=white)](https://github.com/khaatriinaa)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://khatrinajoice-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khaatriinaa)
 
 </div>
 
@@ -127,10 +127,10 @@ I'm open to discussing new projects, collaborations, and opportunities.
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/-Email-4F46E5?style=flat-square&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
-[![GitHub](https://img.shields.io/badge/-GitHub-4F46E5?style=flat-square&logo=github&logoColor=white)](https://github.com/khaatriinaa)
-[![Location](https://img.shields.io/badge/-Ibaan%2C%20Batangas-4F46E5?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khaatriinaa)
+[![Location](https://img.shields.io/badge/-Ibaan%2C%20Batangas-334155?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
