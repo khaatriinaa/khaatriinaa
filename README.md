@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=190&section=header&text=Khatrina%20Joice%20Gonzales&fontSize=38&fontColor=F8FAFC&fontAlignY=42&fontFamily=Inter&desc=Computer%20Science%20Student%20%26%20Full-Stack%20Developer&descAlignY=62&descSize=17&descColor=94A3B8" />
+# Khatrina Joice Gonzales
+
+**Computer Science Student &nbsp;·&nbsp; Full-Stack Developer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;Building+user-centered+web+and+mobile+applications;Currently+exploring+Python+for+data+science" />
 
@@ -27,7 +29,7 @@ const developer = {
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:1E293B&height=42&section=header&text=ABOUT&fontSize=14&fontColor=CBD5E1&fontAlignY=58&fontFamily=Inter" />
+## About
 
 I'm a Computer Science student with hands-on experience building web and mobile applications — from front-ends in React and Next.js to back-ends powered by Node.js and Supabase.
 
@@ -48,11 +50,9 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:1E293B&height=42&section=header&text=SKILLS&fontSize=14&fontColor=CBD5E1&fontAlignY=58&fontFamily=Inter" />
+## Skills
 
 <div align="center">
-
-<br>
 
 <sub><b>FRONTEND</b></sub>
 
@@ -84,26 +84,22 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:1E293B&height=42&section=header&text=GITHUB%20STATISTICS&fontSize=14&fontColor=CBD5E1&fontAlignY=58&fontFamily=Inter" />
+## GitHub Statistics
 
 <div align="center">
-
-<br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=khaatriinaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=94A3B8&icon_color=4F46E5&text_color=CBD5E1" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaatriinaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaatriinaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=4F46E5&fire=4F46E5&currStreakLabel=94A3B8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=khaatriinaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=4F46E5&fire=4F46E5&currStreakLabel=94A3B8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:1E293B&height=42&section=header&text=CONTRIBUTION%20GRAPH&fontSize=14&fontColor=CBD5E1&fontAlignY=58&fontFamily=Inter" />
+## Contribution Graph
 
 <div align="center">
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaatriinaa/khaatriinaa/output/github-contribution-grid-snake-dark.svg" />
@@ -117,15 +113,13 @@ I care about building user-centered products, and I'm currently expanding into P
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:1E293B&height=42&section=header&text=CONTACT&fontSize=14&fontColor=CBD5E1&fontAlignY=58&fontFamily=Inter" />
+## Contact
 
 <div align="center">
 
-<br>
-
 I'm open to discussing new projects, collaborations, and opportunities.
 
-<br><br>
+<br>
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khatrinagonzales4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaatriinaa)
@@ -133,7 +127,3 @@ I'm open to discussing new projects, collaborations, and opportunities.
 [![Location](https://img.shields.io/badge/-Ibaan%2C%20Batangas-334155?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=80&section=footer" />
