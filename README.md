@@ -17,22 +17,13 @@
 
 ### 01 — About
 
-I'm a 4th year Computer Science student at De La Salle University with hands-on experience building web and mobile applications — from pixel-perfect front-ends in React and Next.js to reliable back-ends powered by Node.js and Supabase. Outside of coursework, I've picked up React Native (Expo) for mobile development and I'm currently expanding into Python for data science, exploring how AI can make the products I build smarter and more personalized.
+I'm a Computer Science student at De La Salle Lipa with hands-on experience building web and mobile applications. I enjoy creating user-centered products and am always looking to expand my technical skillset. I'm seeking internship opportunities where I can apply what I've learned and grow in a collaborative development environment.
 
-> I care about building **user-centered products** — software that's not just functional, but genuinely easy and enjoyable to use.
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="170"><b>10+</b><br><sub>Projects Built</sub></td>
-<td align="center" width="170"><b>10+</b><br><sub>DataCamp Courses</sub></td>
-<td align="center" width="170"><b>8+</b><br><sub>Seminars Attended</sub></td>
-<td align="center" width="170"><b>15+</b><br><sub>Tools & Technologies</sub></td>
-</tr>
-</table>
-
-</div>
+- Front-end development: React, Next.js
+- Back-end development: Node.js, Supabase
+- Currently exploring Python for data science
+- Career interests: Software Engineer, Front-End Developer, Data Engineer
+- Open to internship opportunities
 
 ---
 
