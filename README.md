@@ -13,6 +13,8 @@
 
 </div>
 
+---
+
 ### 01 — About
 
 I'm a Computer Science student with hands-on experience building web and mobile applications.
@@ -36,6 +38,8 @@ I'm a Computer Science student with hands-on experience building web and mobile 
 </table>
 
 </div>
+
+---
 
 ### 02 — Skills
 
@@ -70,13 +74,20 @@ I'm a Computer Science student with hands-on experience building web and mobile 
 
 </div>
 
+---
+
 ### 03 — GitHub Statistics
 
 <div align="center">
 
+![Followers](https://img.shields.io/github/followers/khaatriinaa?style=flat-square&logo=github&color=1E293B&labelColor=1E293B&logoColor=white)
+![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&color=1E293B&labelColor=1E293B&logo=github&logoColor=white&label=Repos&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhaatriinaa%2Frepos)
+
 <img width="480" src="https://streak-stats.demolab.com/?user=khaatriinaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=4F46E5&fire=4F46E5&currStreakLabel=94A3B8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&border_radius=8" />
 
 </div>
+
+---
 
 ### 04 — Contact
 
